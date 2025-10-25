@@ -1,1 +1,2 @@
 This is the third text file. Modified third.txt
+Changed chapter 3
